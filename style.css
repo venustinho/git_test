@@ -86,7 +86,7 @@ main {
     height: 15px;
 }
 
-#upnav {
+#upNav {
     margin-top: 15px;
     overflow:hidden;
     font-family: sans-serif;
@@ -94,6 +94,7 @@ main {
     color:#000000;
     margin: 20px;
 }
+
 
 #searchbox: hover {
     box-shadow: 0px 1px 3px 1px rgb(218, 218, 218);
@@ -122,7 +123,7 @@ li a {
     font-family:arial,sans-serif;
 }
 
-.topnav;{
+.topnav-right;{
     display: inline;
 }
 
